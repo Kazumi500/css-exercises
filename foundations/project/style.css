@@ -1,0 +1,7 @@
+.kota {
+    border: 3px solid #4a90e2;
+    border-radius: 15px;
+    aspect-ratio: 1/1;
+    width: 100%;
+    max-width: 150px;
+}
